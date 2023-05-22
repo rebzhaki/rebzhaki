@@ -7,8 +7,8 @@
 Thank you for visiting my profile. Get acquainted with with my repos.
 
 - 👋 Hi...we here to find solutions! Right? Am Rebecca
-- 👀 Am a web3 developer learning with Solidity
-- 💞️ I'm looking to collaborations and making new friends in tech...
+- 👀 I am a web3 developer learning with Solidity
+- 💞️ Tech...
 - 📫 Let's code
 
 # Github Stats 
