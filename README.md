@@ -4,11 +4,11 @@
 **rebzhaki/rebzhaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Thank you for visiting my profile. Get acquainted with with my repos.
+Thank you for visiting my profile. Get acquainted with my repos.
 
-- 👋 Hi...we here to find solutions! Right? Am Rebecca
-- 👀 I am a web3 developer learning with Solidity
-- 💞️ Tech...
+- 👋 Hi...we are here to find solutions! Right? Am Rebecca
+- 👀 I am a software engineer working with Laravel, typescript and reactJS
+- 💞️ Techie...
 - 📫 Let's code
 
 # Github Stats 
